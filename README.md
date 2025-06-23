@@ -9,3 +9,6 @@ Frontene=  BLue
 CHat= Green
 Calendar = Purple
 History = Orange
+
+Link to discord
+https://discord.gg/ZUKqQkr9
